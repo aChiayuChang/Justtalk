@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Justtalk</string>
+
+    <string-array name="theme">
+        <item>theme1</item>
+        <item>theme2</item>
+        <item>theme3</item>
+    </string-array>
+</resources>
